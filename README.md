@@ -14,8 +14,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/ttins24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ttins24" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@tranquangtin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@tranquangtin" height="30" width="40" /></a>
+  <a href="https://fb.com/ttins24" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ttins24" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@tranquangtin" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3256/3256012.png" alt="https://www.youtube.com/@tranquangtin" height="40" width="40" />
+  </a>
 </p>
 
 ---
@@ -31,7 +36,7 @@
   </a> 
   &nbsp;&nbsp;
   <a href="https://www.cocos.com/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/29e54f37-da9b-437e-8dc4-539f0d097a81" alt="cocos" width="40" height="40"/> 
+    <img src="https://media.imgcdn.org/repo/2023/12/cocos-creator/657aef6fae949-cocos-creator-Icon.webp" alt="cocos" width="40" height="40"/> 
   </a>
   &nbsp;&nbsp;
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
@@ -39,15 +44,15 @@
   </a> 
   &nbsp;&nbsp;
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL5s4qVc3eP5P0dFGZFsbEfeWVKx22TEqGeg&s" alt="dotnet" width="40" height="40"/> 
   </a> 
   &nbsp;&nbsp;
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+    <img src="https://audacia.co.uk/img/technologies/sql.svg" alt="mssql" width="40" height="40"/> 
   </a> 
   &nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" alt="mysql" width="40" height="40"/> 
   </a> 
   &nbsp;&nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
