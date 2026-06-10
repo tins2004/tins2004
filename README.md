@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fb.com/ttins24" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ttins24" height="40" width="40" />
+  <a href="https://www.linkedin.com/in/tins2004/" target="blank">
+    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxJiN5l9G2StzvGcbzrGuyokdGMUc7H9BLNA&s" alt="https://www.linkedin.com/in/tins2004/" height="40" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@tranquangtin" target="blank">
